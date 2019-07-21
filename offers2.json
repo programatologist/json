@@ -5,4 +5,9 @@
 
 
 
-{"id": "4", "store_name":"Pizza Hut","image":"https://www.chrissfishandchips.com/image/data/pizza-offer.png","categories":[6],"caption":"Flat 40% off"},{"id": "6", "store_name":"Star Bazzar","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnPsSGdiYzIpeNmn7KAlK8gg76hAq4qzaUXRkEuDa_KGf3g-z_w","categories":[2],"caption":"Flat 40% off"}],"categories":[{"id":"1", "name":"Fashion"}, {"id":"2", "name":"grocery"},{"id":"4", "name":"Footware"},{"id":"6", "name":"Food"}],"selected_category":"1"}
+{"id": "4", "store_name":"Pizza Hut","image":"https://www.chrissfishandchips.com/image/data/pizza-offer.png","categories":[6],"caption":"Flat 40% off"},{"id": "6", "store_name":"Star Bazzar","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnPsSGdiYzIpeNmn7KAlK8gg76hAq4qzaUXRkEuDa_KGf3g-z_w","categories":[2],"caption":"Flat 40% off"}],"categories":
+ 
+ 
+ [{"id":"1", "name":"Fashion"}, {"id":"2", "name":"grocery"},{"id":"4", "name":"Footware"},{"id":"6", "name":"Food"},{"id":"7", "name":"Electronics"}],
+ 
+ "selected_category":"1"}
